@@ -1,0 +1,14 @@
+{
+    "name": "masteralex/main",
+    "description": "main cms",
+    "type": "project",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Master Alex",
+            "email": "supernewmegaemail@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
